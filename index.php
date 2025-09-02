@@ -6,7 +6,7 @@
 
 </head>
 <bod>
-    <h2>Student Registration Form</h2>
+    <h2>Student Registration Form Created by Group_8</h2>
         <form action="insert.php" method="POST">
             Student Name:
            <input type="text" name="name" required><br><br>
