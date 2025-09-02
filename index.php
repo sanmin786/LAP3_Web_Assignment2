@@ -3,6 +3,15 @@
 <html>
 <head>
     <title>Student Registration Form</title>
+    <style>
+        button{
+            margin-top:20px;
+        }
+        .view{
+        
+            text-decoration: none;
+        }
+    </style>
 
 </head>
 <bod>
